@@ -2,14 +2,14 @@
 
 # Установка
 ```
-pip install matplotlib pandas cartopy
+pip install matplotlib pandas cartopy openpyxl
 ```
 
 Структура
 ```
 plot.py
-stat.csv
-color.csv
+stat.csv или stat.xlsx
+color.csv или color.xlsx
 map/
 ```
 
