@@ -20,8 +20,11 @@ stat.csv
 ```
 ADM1_EN,ADM2_EN,name,value,color
 Abay Region,Abay District,Абайский район — город Абай,103.6,white
+Karaganda Region,Abay District,Абайский район — село Карааул,93.3,white
+Aktobe Region,Ayteke Bi District,Айтекебийский район — село Темирбека Жургенова,81.2,white
 ```
-
+- ADM1_EN - код первого уровня из карты
+- ADM2_EN - код второго уровня из карты
 - name - название для отображение
 - color - цвет для раскрашивания
 - value - значение для раскрашивания через color.csv (если нет color)
@@ -39,7 +42,7 @@ min,max,color
 
 ### Карта
 ```
-map
+map/
 -- kaz_admbnda_adm2_unhcr_2023.cpg
 -- kaz_admbnda_adm2_unhcr_2023.dbf
 -- kaz_admbnda_adm2_unhcr_2023.prj
@@ -59,6 +62,6 @@ python3 plot.py
 Результаты
 ```
 fig.png
-districts_all.txt - все район
-districts_not_found.txt - районы которые не нашли
+districts_all.txt - все районы, которые есть в карте
+districts_not_found.txt - районы, которые есть в карте, но нет в данных
 ```
