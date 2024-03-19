@@ -22,11 +22,9 @@ ADM1_EN,ADM2_EN,name,value,color
 Abay Region,Abay District,Абайский район — город Абай,103.6,white
 ```
 
-name - название для отображение
-
-color - цвет для раскрашивания
-
-value - значение для раскрашивания через color.csv (если нет color)
+- name - название для отображение
+- color - цвет для раскрашивания
+- value - значение для раскрашивания через color.csv (если нет color)
 
 ### Цвета
 color.csv
