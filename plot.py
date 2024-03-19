@@ -1,9 +1,14 @@
 # DATA
 import pandas as pd
-df = pd.read_csv('stat.csv').set_index(['ADM1_EN', 'ADM2_EN'])
+try:
+    df = pd.read_csv('stat.csv').set_index(['ADM1_EN', 'ADM2_EN'])
+    'label' in df
+except:
+    df = pd.read_csv('stat.csv', sep=';').set_index(['ADM1_EN', 'ADM2_EN'])
+    'label' in df
+
 df['label'] = df['name'].fillna("").apply(lambda x: x.split("—")[0].strip())
 print(df)
-
 records = df.to_dict()
 
 labels = records['label']

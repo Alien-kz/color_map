@@ -1,170 +1,170 @@
-oblast,id,name,value,ADM1_EN,ADM2_EN,color_
-10,93,Абайский район — город Абай,103.6,Abay Region,Abay District,white
-1,1,Абайский район — село Карааул,93.3,Karaganda Region,Abay District,white
-3,26,Айтекебийский район — село Темирбека Жургенова,81.2,Aktobe Region,Ayteke Bi District,white
-15,138,Айыртауский район — село Саумалколь,76.1,North Kazakhstan Region,Aiyrtau District,white
-9,81,Акжаикский район — село Чапаев,84.2,West Kazakhstan Region,Akzhaik District,white
-15,139,Акжарский район — село Талшик,72.4,North Kazakhstan Region,Akkayin District,white
-15,140,Аккайынский район — село Смирново,80.9,North Kazakhstan Region,Akzhar District,white
-2,9,Аккольский район — город Акколь,91.5,Akmola Region,Akkol District,white
-14,133,Аккулинский район — село Аккулы,86.6,Pavlodar Region,Lebyazhye District,white
+﻿oblast,id,name,value,ADM1_EN,ADM2_EN,no_color
+1,1,Абайский район — город Абай,93.3,Abay Region,Abay District,white
 1,2,Аксуатский район — село Аксуат,,Abay Region,Aksuat District,white
-8,73,Аксуский район — село Жансугуров,96.5,Jetisu Region,Aksu District,white
-14,128,Актогайский район — село Актогай,87.1,Pavlodar Region,Aktogay District,white
-10,94,Актогайский район — село Актогай,84.2,Karaganda Region,Aktogay District,white
-8,74,Алакольский район — город Ушарал,108.9,Jetisu Region,Alakol District,white
-3,27,Алгинский район — город Алга,110.9,Aktobe Region,Alga District,white
-6,54,Алтайский район — город Алтай,80.3,East Kazakhstan Region,Altai District,white
-11,100,Алтынсаринский район — село Убаганское,80.5,Kostanay Region,Altynsarin District,white
-11,101,Амангельдинский район — село Амангельды,77.6,Kostanay Region,Amangeldi District,white
-12,116,Аральский район — город Аральск,109.4,Kyzylorda Region,Aral District,white
+1,3,Аягозский район — город Аягоз,89.8,Abay Region,Ayagoz District,white
+1,4,Бескарагайский район — село Бескарагай,82.4,Abay Region,Beskaragay District,white
+1,5,Бородулихинский район — село Бородулиха,83.8,Abay Region,Borodulikha District,white
+1,6,Жарминский район — село Калбатау,83.7,Abay Region,Zharma District,white
+1,7,Кокпектинский район — село Кокпекты,75.6,Abay Region,Kokpekti District,white
+1,8,Урджарский район — село Урджар,85.5,Abay Region,Urzhar District,white
+2,9,Аккольский район — город Акколь,91.5,Akmola Region,Akkol District,white
 2,10,Аршалынский район — село Аршалы,87.9,Akmola Region,Arshaly District,white
 2,11,Астраханский район — село Астраханка,74.0,Akmola Region,Astrakhan District,white
 2,12,Атбасарский район — город Атбасар,86.6,Akmola Region,Atbasar District,white
-11,102,Аулиекольский район — село Аулиеколь,75.0,Kostanay Region,Auliekol District,white
-1,3,Аягозский район — город Аягоз,89.8,Abay Region,Ayagoz District,white
-3,28,Байганинский район — село Карауылкелды,101.7,Aktobe Region,Bayganin District,white
-16,151,Байдибекский район — село Шаян,91.1,Turkistan Region,Baydibek District,white
-7,63,Байзакский район — село Сарыкемер,122.6,Jambyl Region,Bayzak District,white
-9,86,Байтерекский район — село Перемётное,105.5,West Kazakhstan Region,Zelenov District,white
-4,38,Балхашский район — село Баканас,97.2,Almaty Region,Balkhash District,white
-14,129,Баянаульский район — село Баянаул,84.9,Pavlodar Region,Bayanaul District,white
-13,123,Бейнеуский район — село Бейнеу,150.4,Mangystau Region,Beyneu District,white
-1,4,Бескарагайский район — село Бескарагай,82.4,Abay Region,Beskaragay District,white
-9,82,Бокейординский район — село Сайхин,86.9,West Kazakhstan Region,Bokey Orda District,white
-1,5,Бородулихинский район — село Бородулиха,83.8,Abay Region,Borodulikha District,white
+2,13,Район Биржан сал — город Степняк,75.9,Akmola Region,Birzhan sal District,white
 2,14,Буландынский район — город Макинск,85.1,Akmola Region,Bulandy District,white
 2,15,Бурабайский район — город Щучинск,96.8,Akmola Region,Burabay District,white
-9,83,Бурлинский район — город Аксай,109.2,West Kazakhstan Region,Borili District,white
-10,95,Бухар-Жырауский район — посёлок Ботакара,90.0,Karaganda Region,Bukhar-Zhyrau District,white
-6,55,Глубоковский район — село Глубокое,90.5,East Kazakhstan Region,Glubokoe District,white
-11,103,Денисовский район — село Денисовка,77.2,Kostanay Region,Denisov District,white
-11,104,Джангельдинский район — село Тургай,70.6,Kostanay Region,Zhangeldin District,white
 2,16,Егиндыкольский район — село Егиндыколь,80.4,Akmola Region,Egindikol District,white
-4,39,Енбекшиказахский район — город Есик,108.2,Almaty Region,Enbekshikazakh District,white
 2,17,Ерейментауский район — город Ерейментау,85.3,Akmola Region,Ereymentau District,white
 2,18,Есильский район — город Есиль,77.0,Akmola Region,Esil District,white
-15,141,Есильский район — село Явленка,76.8,North Kazakhstan Region,Esil District,white
-8,75,Ескельдинский район — село Карабулак,104.6,Jetisu Region,Eskeldi District,white
 2,19,Жаксынский район — село Жаксы,77.9,Akmola Region,Zhaksy District,white
-12,120,Жалагашский район — село Жалагаш,99.4,Kyzylorda Region,Zhalagash District,white
-7,64,Жамбылский район — село Аса,118.1,Almaty Region,Zhambyl District,white
-15,142,Жамбылский район — село Пресновка,73.3,North Kazakhstan Region,Zhambyl District,white
-4,40,Жамбылский район — село Узынагаш,138.7,Jambyl Region,Zhambyl District,white
-17,165,Жанааркинский район — посёлок Жанаарка,100.7,Ulytau Region,Zhanaarka District,white
-12,117,Жанакорганский район — село Жанакорган,112.3,Kyzylorda Region,Zhanakorgan District,white
-9,84,Жангалинский район — село Жангала,91.5,West Kazakhstan Region,Zhanakala District,white
-9,85,Жанибекский район — село Жанибек,86.1,West Kazakhstan Region,Zhanybek District,white
 2,20,Жаркаинский район — город Державинск,85.9,Akmola Region,Zharkain District,white
-1,6,Жарминский район — село Калбатау,83.7,Abay Region,Zharma District,white
-14,130,Железинский район — село Железинка,86.6,Pavlodar Region,Zhelezin District,white
-16,152,Жетысайский район — город Жетысай,108.4,Turkistan Region,Zhetisay District,white
-11,105,Житикаринский район — город Житикара,84.1,Kostanay Region,Zhetikara District,white
-7,65,Жуалынский район — село Бауыржан Момышулы,107.3,Jambyl Region,Zhualy District,white
-5,47,Жылыойский район — город Кульсары,121.0,Atyrau Region,Zhylyoi District,white
-6,56,Зайсанский район — город Зайсан,104.5,East Kazakhstan Region,Zaysan District,white
 2,21,Зерендинский район — село Зеренда,87.8,Akmola Region,Zerendi District,white
-4,41,Илийский район — село Отеген-Батыр,160.9,Almaty Region,Ile District,white
-5,48,Индерский район — посёлок Индерборский,106.7,Atyrau Region,Inder District,white
-3,29,Иргизский район — село Иргиз,96.5,Aktobe Region,Yrgyz District,white
-14,131,Иртышский район — село Иртышск,83.3,Pavlodar Region,Ertis District,white
-5,49,Исатайский район — село Аккистау,107.3,Atyrau Region,Isatay District,white
-12,118,Казалинский район — посёлок Айтеке-Би,106.6,Kyzylorda Region,Kazaly District,white
-9,87,Казталовский район — село Казталовка,83.4,West Kazakhstan Region,Kaztal District,white
-16,153,Казыгуртский район — село Казыгурт,112.6,Turkistan Region,Kazygurt District,white
-11,106,Камыстинский район — село Камысты,69.3,Kostanay Region,Kamysty District,white
-11,107,Карабалыкский район — село Карабалык,79.1,Kostanay Region,Karabalyk District,white
-13,124,Каракиянский район — село Курык,123.3,Mangystau Region,Karakiya District,white
-4,42,Карасайский район — город Каскелен,167.0,Almaty Region,Karasay District,white
-11,108,Карасуский район — село Карасу,72.4,Kostanay Region,Karasu District,white
-8,76,Каратальский район — город Уштобе,84.7,Jetisu Region,Karatal District,white
-9,88,Каратобинский район — село Каратобе,80.7,West Kazakhstan Region,Karatobe District,white
-3,30,Каргалинский район — село Бадамша,91.1,Aktobe Region,Kargaly District,white
-10,96,Каркаралинский район — город Каркаралинск,73.7,Karaganda Region,Karkaraly District,white
-12,119,Кармакшинский район — село Жосалы,103.2,Kyzylorda Region,Karmakshy District,white
-6,57,Катон-Карагайский район — село Катон—Карагай,73.3,East Kazakhstan Region,Katonkaragay District,white
-4,43,Кегенский район — село Кеген,78.9,Almaty Region,Kegen District,white
-16,154,Келесский район — село Абай,117.9,Turkistan Region,Keles District,white
-8,77,Кербулакский район — село Сарыозек,94.5,Jetisu Region,Kerbulak District,white
-5,50,Кзылкогинский район — село Миялы,99.5,Atyrau Region,Kyzylkoga District,white
-1,7,Кокпектинский район — село Кокпекты,75.6,Abay Region,Kokpekti District,white
-8,78,Коксуский район — село Балпык-Би,109.1,Jetisu Region,Koksu District,white
 2,22,Коргалжынский район — село Коргалжын,72.8,Akmola Region,Korgalzhyn District,white
-7,66,Кордайский район — село Кордай,125.3,Jambyl Region,Korday District,white
-11,109,Костанайский район — город Тобыл,108.0,Kostanay Region,Kostanay District,white
-5,51,Курмангазинский район — село Курмангазы,100.6,Atyrau Region,Kurmangazy district,white
-6,58,Курчумский район — село Курчум,72.1,East Kazakhstan Region,Kurshim District,white
-15,144,Кызылжарский район — село Бесколь,104.3,North Kazakhstan Region,Qyzyljar District,white
-14,134,Майский район — село Коктобе,84.5,Pavlodar Region,May District,white
-5,52,Макатский район — посёлок Макат,114.6,Atyrau Region,Makat District,white
-16,155,Мактааральский район — посёлок Мырзакент,107.9,Turkistan Region,Maktaaral District,white
-15,145,Мамлютский район — город Мамлютка,83.5,North Kazakhstan Region,Mamlyut District,white
-13,125,Мангистауский район — село Шетпе,112.3,Mangystau Region,Mangystau District,white
-3,31,Мартукский район — село Мартук,98.3,Aktobe Region,Martuk District,white
-5,53,Махамбетский район — село Махамбет,110.9,Atyrau Region,Makhambet District,white
-11,110,Мендыкаринский район — село Боровской,70.4,Kostanay Region,Mendykara District,white
-7,67,Меркенский район — село Мерке,114.5,Jambyl Region,Merki District,white
-7,68,Мойынкумский район — село Мойынкум,92.4,Jambyl Region,Moiynkum District,white
-3,32,Мугалжарский район — город Кандыагаш,104.6,Aktobe Region,Mugalzhar District,white
-13,126,Мунайлинский район — село Мангистау,207.1,Mangystau Region,Munaily District,white
-11,111,Наурзумский район — село Караменды,72.2,Kostanay Region,Nauyrzym District,white
-10,97,Нуринский район — посёлок Нура,86.6,Karaganda Region,Nura District,white
-16,156,Ордабасинский район — село Темирлановка,122.7,Turkistan Region,Ordabasy District,white
-10,98,Осакаровский район — село Осакаровка,86.5,Karaganda Region,Osakarov District,white
-16,157,Отырарский район — село Шаульдер,101.1,Turkistan Region,Otyrar District,white
-14,135,Павлодарский район — город Павлодар (не входит в состав района),98.9,Pavlodar Region,Pavlodar District,white
-8,79,Панфиловский район — город Жаркент,117.6,Jetisu Region,Panfilov District,white
-11,113,район Беимбета Майлина — село Айет,80.4,Kostanay Region,Taran District,white
-2,13,Район Биржан сал — город Степняк,75.9,Akmola Region,Birzhan sal District,white
-15,146,Район имени Габита Мусрепова — село Новоишимское,80.2,North Kazakhstan Region,Gabit Musirepov District,white
-15,143,Район Магжана Жумабаева — город Булаево,75.0,North Kazakhstan Region,Magzhan Zhumabaev District,white
-15,150,Район Шал акына — город Сергеевка,79.4,North Kazakhstan Region,Shal akyn District,white
-4,44,Райымбекский район — село Нарынкол,68.6,Almaty Region,Raiymbek District,white
-7,69,Рыскуловский район — село Кулан,105.5,Jambyl Region,Turar Ryskulov District,white
-16,158,Сайрамский район — село Аксукент,128.2,Turkistan Region,Sayram District,white
-6,59,Самарский район — село Самарское,,East Kazakhstan Region,Samara District,white
 2,23,Сандыктауский район — село Балкашино,79.9,Akmola Region,Sandyktau District,white
-8,80,Саркандский район — город Сарканд,98.2,Jetisu Region,Sarkand District,white
-16,159,Сарыагашский район — город Сарыагаш,130.7,Turkistan Region,Saryagash District,white
-11,112,Сарыкольский район — село Сарыколь,72.9,Kostanay Region,Sarykol District,white
-7,70,Сарысуский район — город Жанатас,105.9,Jambyl Region,Sarysu District,white
-16,160,Сауранский район — село Шорнак,115.2,Turkistan Region,Sayram District,white
-16,161,Сузакский район — село Шолаккорган,119.3,Turkistan Region,Sozak District,white
-12,121,Сырдарьинский район — село Теренозек,98.8,Kyzylorda Region,Syrdariya District,white
-9,89,Сырымский район — село Жымпиты,80.5,West Kazakhstan Region,Syrym District,white
-15,147,Тайыншинский район — город Тайынша,81.3,North Kazakhstan Region,Taiynsha District,white
-7,71,Таласский район — город Каратау,95.9,Jambyl Region,Talas District,white
-4,45,Талгарский район — город Талгар,141.1,Almaty Region,Talgar District,white
-6,60,Тарбагатайский район — село Акжар,84.7,East Kazakhstan Region,Tarbagatay District,white
-9,90,Таскалинский район — село Таскала,95.0,West Kazakhstan Region,Taskala District,white
+2,24,Целиноградский район — село Акмол,148.1,Akmola Region,Tselinograd District,white
+2,25,Шортандинский район — село Шортанды,94.1,Akmola Region,Shortandy District,white
+3,26,Айтекебийский район — село Темирбека Жургенова,81.2,Aktobe Region,Ayteke Bi District,white
+3,27,Алгинский район — город Алга,110.9,Aktobe Region,Alga District,white
+3,28,Байганинский район — село Карауылкелды,101.7,Aktobe Region,Bayganin District,white
+3,29,Иргизский район — село Иргиз,96.5,Aktobe Region,Yrgyz District,white
+3,30,Каргалинский район — село Бадамша,91.1,Aktobe Region,Kargaly District,white
+3,31,Мартукский район — село Мартук,98.3,Aktobe Region,Martuk District,white
+3,32,Мугалжарский район — город Кандыагаш,104.6,Aktobe Region,Mugalzhar District,white
 3,33,Темирский район — посёлок Шубаркудук,103.8,Aktobe Region,Temir District,white
-9,91,Теректинский район — село Теректы,101.1,West Kazakhstan Region,Terekti District,white
-14,132,Теренкольский район — село Теренколь,91.1,Pavlodar Region,Terenkol District,white
-15,148,Тимирязевский район — село Тимирязево,73.0,North Kazakhstan Region,Timiryazev District,white
-16,162,Толебийский район — город Ленгер,110.6,Turkistan Region,Tole Bi District,white
-13,127,Тупкараганский район — город Форт-Шевченко,181.3,Mangystau Region,Tupkaragan District,white
-16,163,Тюлькубасский район — село имени Турара Рыскулова,109.2,Turkistan Region,Tulkibas District,white
-15,149,Уалихановский район — село Кишкенеколь,75.2,North Kazakhstan Region,Ualikhanov District,white
-11,114,Узункольский район — село Узунколь,61.6,Kostanay Region,Uzunkol District,white
 3,34,Уилский район — село Уил,86.2,Aktobe Region,Oiyl District,white
-4,46,Уйгурский район — село Чунджа,104.6,Almaty Region,Uygur District,white
-6,61,Уланский район — село имени Касыма Кайсенова,87.2,East Kazakhstan Region,Ulan District,white
-17,166,Улытауский район — село Улытау,80.2,Ulytau Region,Ulytau District,white
-1,8,Урджарский район — село Урджар,85.5,Abay Region,Urzhar District,white
-14,136,Успенский район — село Успенка,95.2,Pavlodar Region,Uspen District,white
-11,115,Фёдоровский район — село Фёдоровка,85.4,Kostanay Region,Fyodorovsky District,white
 3,35,Хобдинский район — село Кобда,81.7,Aktobe Region,Kobda District,white
 3,36,Хромтауский район — город Хромтау,115.3,Aktobe Region,Khromtau District,white
-2,24,Целиноградский район — село Акмол,148.1,Akmola Region,Tselinograd District,white
-9,92,Чингирлауский район — село Чингирлау,80.9,West Kazakhstan Region,Shyngyrlau District,white
 3,37,Шалкарский район — город Шалкар,96.1,Aktobe Region,Shalkar District,white
-16,164,Шардаринский район — город Шардара,110.3,Turkistan Region,Shardara District,white
+4,38,Балхашский район — село Баканас,97.2,Almaty Region,Balkhash District,white
+4,39,Енбекшиказахский район — город Есик,108.2,Almaty Region,Enbekshikazakh District,white
+4,40,Жамбылский район — село Узынагаш,138.7,Almaty Region,Zhambyl District,white
+4,41,Илийский район — село Отеген-Батыр,160.9,Almaty Region,Ile District,white
+4,42,Карасайский район — город Каскелен,167.0,Almaty Region,Karasay District,white
+4,43,Кегенский район — село Кеген,78.9,Almaty Region,Kegen District,white
+4,44,Райымбекский район — село Нарынкол,68.6,Almaty Region,Raiymbek District,white
+4,45,Талгарский район — город Талгар,141.1,Almaty Region,Talgar District,white
+4,46,Уйгурский район — село Чунджа,104.6,Almaty Region,Uygur District,white
+5,47,Жылыойский район — город Кульсары,121.0,Atyrau Region,Zhylyoi District,white
+5,48,Индерский район — посёлок Индерборский,106.7,Atyrau Region,Inder District,white
+5,49,Исатайский район — село Аккистау,107.3,Atyrau Region,Isatay District,white
+5,50,Кзылкогинский район — село Миялы,99.5,Atyrau Region,Kyzylkoga District,white
+5,51,Курмангазинский район — село Курмангазы,100.6,Atyrau Region,Kurmangazy district,white
+5,52,Макатский район — посёлок Макат,114.6,Atyrau Region,Makat District,white
+5,53,Махамбетский район — село Махамбет,110.9,Atyrau Region,Makhambet District,white
+6,54,Алтайский район — город Алтай,80.3,East Kazakhstan Region,Altai District,white
+6,55,Глубоковский район — село Глубокое,90.5,East Kazakhstan Region,Glubokoe District,white
+6,56,Зайсанский район — город Зайсан,104.5,East Kazakhstan Region,Zaysan District,white
+6,57,Катон-Карагайский район — село Катон—Карагай,73.3,East Kazakhstan Region,Katonkaragay District,white
+6,58,Курчумский район — село Курчум,72.1,East Kazakhstan Region,Kurshim District,white
+6,59,Самарский район — село Самарское,,East Kazakhstan Region,Samara District,white
+6,60,Тарбагатайский район — село Акжар,84.7,East Kazakhstan Region,Tarbagatay District,white
+6,61,Уланский район — село имени Касыма Кайсенова,87.2,East Kazakhstan Region,Ulan District,white
 6,62,Шемонаихинский район — город Шемонаиха,86.3,East Kazakhstan Region,Shemonaikha District,white
-10,99,Шетский район — село Аксу-Аюлы,84.3,Karaganda Region,Shet District,white
-12,122,Шиелийский район — село Шиели,111.3,Kyzylorda Region,Shieli District,white
-2,25,Шортандинский район — село Шортанды,94.1,Akmola Region,Shortandy District,white
+7,63,Байзакский район — село Сарыкемер,122.6,Jambyl Region,Bayzak District,white
+7,64,Жамбылский район — село Аса,118.1,Jambyl Region,Zhambyl District,white
+7,65,Жуалынский район — село Бауыржан Момышулы,107.3,Jambyl Region,Zhualy District,white
+7,66,Кордайский район — село Кордай,125.3,Jambyl Region,Korday District,white
+7,67,Меркенский район — село Мерке,114.5,Jambyl Region,Merki District,white
+7,68,Мойынкумский район — село Мойынкум,92.4,Jambyl Region,Moiynkum District,white
+7,69,Рыскуловский район — село Кулан,105.5,Jambyl Region,Turar Ryskulov District,white
+7,70,Сарысуский район — город Жанатас,105.9,Jambyl Region,Sarysu District,white
+7,71,Таласский район — город Каратау,95.9,Jambyl Region,Talas District,white
 7,72,Шуский район — село Толе би,111.2,Jambyl Region,Shu District,white
+8,73,Аксуский район — село Жансугуров,96.5,Jetisu Region,Aksu District,white
+8,74,Алакольский район — город Ушарал,108.9,Jetisu Region,Alakol District,white
+8,75,Ескельдинский район — село Карабулак,104.6,Jetisu Region,Eskeldi District,white
+8,76,Каратальский район — город Уштобе,84.7,Jetisu Region,Karatal District,white
+8,77,Кербулакский район — село Сарыозек,94.5,Jetisu Region,Kerbulak District,white
+8,78,Коксуский район — село Балпык-Би,109.1,Jetisu Region,Koksu District,white
+8,79,Панфиловский район — город Жаркент,117.6,Jetisu Region,Panfilov District,white
+8,80,Саркандский район — город Сарканд,98.2,Jetisu Region,Sarkand District,white
+9,81,Акжаикский район — село Чапаев,84.2,West Kazakhstan Region,Akzhaik District,white
+9,82,Бокейординский район — село Сайхин,86.9,West Kazakhstan Region,Bokey Orda District,white
+9,83,Бурлинский район — город Аксай,109.2,West Kazakhstan Region,Borili District,white
+9,84,Жангалинский район — село Жангала,91.5,West Kazakhstan Region,Zhanakala District,white
+9,85,Жанибекский район — село Жанибек,86.1,West Kazakhstan Region,Zhanybek District,white
+9,86,Байтерекский район — село Перемётное,105.5,West Kazakhstan Region,Zelenov District,white
+9,87,Казталовский район — село Казталовка,83.4,West Kazakhstan Region,Kaztal District,white
+9,88,Каратобинский район — село Каратобе,80.7,West Kazakhstan Region,Karatobe District,white
+9,89,Сырымский район — село Жымпиты,80.5,West Kazakhstan Region,Syrym District,white
+9,90,Таскалинский район — село Таскала,95.0,West Kazakhstan Region,Taskala District,white
+9,91,Теректинский район — село Теректы,101.1,West Kazakhstan Region,Terekti District,white
+9,92,Чингирлауский район — село Чингирлау,80.9,West Kazakhstan Region,Shyngyrlau District,white
+10,93,Абайский район — город Абай,103.6,Karaganda Region,Abay District,white
+10,94,Актогайский район — село Актогай,84.2,Karaganda Region,Aktogay District,white
+10,95,Бухар-Жырауский район — посёлок Ботакара,90.0,Karaganda Region,Bukhar-Zhyrau District,white
+10,96,Каркаралинский район — город Каркаралинск,73.7,Karaganda Region,Karkaraly District,white
+10,97,Нуринский район — посёлок Нура,86.6,Karaganda Region,Nura District,white
+10,98,Осакаровский район — село Осакаровка,86.5,Karaganda Region,Osakarov District,white
+10,99,Шетский район — село Аксу-Аюлы,84.3,Karaganda Region,Shet District,white
+11,100,Алтынсаринский район — село Убаганское,80.5,Kostanay Region,Altynsarin District,white
+11,101,Амангельдинский район — село Амангельды,77.6,Kostanay Region,Amangeldi District,white
+11,102,Аулиекольский район — село Аулиеколь,75.0,Kostanay Region,Auliekol District,white
+11,103,Денисовский район — село Денисовка,77.2,Kostanay Region,Denisov District,white
+11,104,Джангельдинский район — село Тургай,70.6,Kostanay Region,Zhangeldin District,white
+11,105,Житикаринский район — город Житикара,84.1,Kostanay Region,Zhetikara District,white
+11,106,Камыстинский район — село Камысты,69.3,Kostanay Region,Kamysty District,white
+11,107,Карабалыкский район — село Карабалык,79.1,Kostanay Region,Karabalyk District,white
+11,108,Карасуский район — село Карасу,72.4,Kostanay Region,Karasu District,white
+11,109,Костанайский район — город Тобыл,108.0,Kostanay Region,Kostanay District,white
+11,110,Мендыкаринский район — село Боровской,70.4,Kostanay Region,Mendykara District,white
+11,111,Наурзумский район — село Караменды,72.2,Kostanay Region,Nauyrzym District,white
+11,112,Сарыкольский район — село Сарыколь,72.9,Kostanay Region,Sarykol District,white
+11,113,район Беимбета Майлина — село Айет,80.4,Kostanay Region,Taran District,white
+11,114,Узункольский район — село Узунколь,61.6,Kostanay Region,Uzunkol District,white
+11,115,Фёдоровский район — село Фёдоровка,85.4,Kostanay Region,Fyodorovsky District,white
+12,116,Аральский район — город Аральск,109.4,Kyzylorda Region,Aral District,white
+12,117,Жанакорганский район — село Жанакорган,112.3,Kyzylorda Region,Zhanakorgan District,white
+12,118,Казалинский район — посёлок Айтеке-Би,106.6,Kyzylorda Region,Kazaly District,white
+12,119,Кармакшинский район — село Жосалы,103.2,Kyzylorda Region,Karmakshy District,white
+12,120,Жалагашский район — село Жалагаш,99.4,Kyzylorda Region,Zhalagash District,white
+12,121,Сырдарьинский район — село Теренозек,98.8,Kyzylorda Region,Syrdariya District,white
+12,122,Шиелийский район — село Шиели,111.3,Kyzylorda Region,Shieli District,white
+13,123,Бейнеуский район — село Бейнеу,150.4,Mangystau Region,Beyneu District,white
+13,124,Каракиянский район — село Курык,123.3,Mangystau Region,Karakiya District,white
+13,125,Мангистауский район — село Шетпе,112.3,Mangystau Region,Mangystau District,white
+13,126,Мунайлинский район — село Мангистау,207.1,Mangystau Region,Munaily District,white
+13,127,Тупкараганский район — город Форт-Шевченко,181.3,Mangystau Region,Tupkaragan District,white
+14,128,Актогайский район — село Актогай,87.1,Pavlodar Region,Aktogay District,white
+14,129,Баянаульский район — село Баянаул,84.9,Pavlodar Region,Bayanaul District,white
+14,130,Железинский район — село Железинка,86.6,Pavlodar Region,Zhelezin District,white
+14,131,Иртышский район — село Иртышск,83.3,Pavlodar Region,Ertis District,white
+14,132,Теренкольский район — село Теренколь,91.1,Pavlodar Region,Terenkol District,white
+14,133,Аккулинский район — село Аккулы,86.6,Pavlodar Region,Lebyazhye District,white
+14,134,Майский район — село Коктобе,84.5,Pavlodar Region,May District,white
+14,135,Павлодарский район — город Павлодар (не входит в состав района),98.9,Pavlodar Region,Pavlodar District,white
+14,136,Успенский район — село Успенка,95.2,Pavlodar Region,Uspen District,white
 14,137,Щербактинский район — село Шарбакты,88.0,Pavlodar Region,Sharbaqty District,white
+15,138,Айыртауский район — село Саумалколь,76.1,North Kazakhstan Region,Aiyrtau District,white
+15,139,Акжарский район — село Талшик,72.4,North Kazakhstan Region,Akzhar District,white
+15,140,Аккайынский район — село Смирново,80.9,North Kazakhstan Region,Akkayin District,white
+15,141,Есильский район — село Явленка,76.8,North Kazakhstan Region,Esil District,white
+15,142,Жамбылский район — село Пресновка,73.3,North Kazakhstan Region,Zhambyl District,white
+15,143,Район Магжана Жумабаева — город Булаево,75.0,North Kazakhstan Region,Magzhan Zhumabaev District,white
+15,144,Кызылжарский район — село Бесколь,104.3,North Kazakhstan Region,Qyzyljar District,white
+15,145,Мамлютский район — город Мамлютка,83.5,North Kazakhstan Region,Mamlyut District,white
+15,146,Район имени Габита Мусрепова — село Новоишимское,80.2,North Kazakhstan Region,Gabit Musirepov District,white
+15,147,Тайыншинский район — город Тайынша,81.3,North Kazakhstan Region,Taiynsha District,white
+15,148,Тимирязевский район — село Тимирязево,73.0,North Kazakhstan Region,Timiryazev District,white
+15,149,Уалихановский район — село Кишкенеколь,75.2,North Kazakhstan Region,Ualikhanov District,white
+15,150,Район Шал акына — город Сергеевка,79.4,North Kazakhstan Region,Shal akyn District,white
+16,151,Байдибекский район — село Шаян,91.1,Turkistan Region,Baydibek District,white
+16,152,Жетысайский район — город Жетысай,108.4,Turkistan Region,Zhetisay District,white
+16,153,Казыгуртский район — село Казыгурт,112.6,Turkistan Region,Kazygurt District,white
+16,154,Келесский район — село Абай,117.9,Turkistan Region,Keles District,white
+16,155,Мактааральский район — посёлок Мырзакент,107.9,Turkistan Region,Maktaaral District,white
+16,156,Ордабасинский район — село Темирлановка,122.7,Turkistan Region,Ordabasy District,white
+16,157,Отырарский район — село Шаульдер,101.1,Turkistan Region,Otyrar District,white
+16,158,Сайрамский район — село Аксукент,128.2,Turkistan Region,Sayram District,white
+16,159,Сарыагашский район — город Сарыагаш,130.7,Turkistan Region,Saryagash District,white
+16,160,Сауранский район — село Шорнак,115.2,Turkistan Region,Sayram District,white
+16,161,Сузакский район — село Шолаккорган,119.3,Turkistan Region,Sozak District,white
+16,162,Толебийский район — город Ленгер,110.6,Turkistan Region,Tole Bi District,white
+16,163,Тюлькубасский район — село имени Турара Рыскулова,109.2,Turkistan Region,Tulkibas District,white
+16,164,Шардаринский район — город Шардара,110.3,Turkistan Region,Shardara District,white
+17,165,Жанааркинский район — посёлок Жанаарка,100.7,Ulytau Region,Zhanaarka District,white
+17,166,Улытауский район — село Улытау,80.2,Ulytau Region,Ulytau District,white
 ,,,,Abay Region,Kurchatov,white
 ,,,,Abay Region,Semey,white
 ,,,,Akmola Region,Kokshetau,white
