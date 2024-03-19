@@ -23,7 +23,9 @@ Abay Region,Abay District,Абайский район — город Абай,
 ```
 
 name - название для отображение
+
 color - цвет для раскрашивания
+
 value - значение для раскрашивания через color.csv (если нет color)
 
 ### Цвета
@@ -35,8 +37,7 @@ min,max,color
 100,120,lightgreen
 120,140,green
 ```
-Все цвета здесь
-https://matplotlib.org/stable/gallery/color/named_colors.html
+Все цвета здесь https://matplotlib.org/stable/gallery/color/named_colors.html
 
 ### Карта
 ```
